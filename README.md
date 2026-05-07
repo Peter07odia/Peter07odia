@@ -8,7 +8,7 @@ I build AI-powered products that solve real business problems — end-to-end, fr
 
 ### 🤖 What I Build
 
-I specialize in turning messy, real-world business problems into working AI systems. That means agentic workflows, RAG pipelines, automated customer experiences, and full-stack mobile products — not demos, but things that actually run.
+I specialize in turning messy, real-world business problems into working AI systems. That means agentic workflows, RAG pipelines, automated customer experiences, and full-stack mobile products, not demos, but things that actually run.
 
 ---
 
